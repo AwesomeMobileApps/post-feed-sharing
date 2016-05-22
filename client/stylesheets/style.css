@@ -1,0 +1,16 @@
+img, video, iframe {
+    max-width: 100%;
+}
+.post {
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+	border-bottom: #ccc solid 1px;
+}
+
+/** Styles **/
+.bold {
+	font-weight: bold; 
+}
+.small {
+	font-size: x-small;
+}
